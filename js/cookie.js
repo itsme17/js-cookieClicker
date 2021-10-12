@@ -91,4 +91,8 @@ function displayScore(){
 document.getElementById("cookieImg").addEventListener("click", main)
 document.getElementById("multiply").addEventListener("click", multiplier)
 document.getElementById("auto-clicker").addEventListener("click", autoClicker)
+<<<<<<< HEAD
 document.getElementById("bonus").addEventListener("click", bonus)
+=======
+document.getElementById("bonus").addEventListener("click", bonus)
+>>>>>>> binayak
